@@ -1,0 +1,32 @@
+.line {
+    width: 50%;
+    margin-left: auto ;
+    margin-right: auto;
+}
+.line2 {
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1px;
+}
+.image {
+    width: 500px;
+    height: 500px;
+    text-align: right;
+}
+.font2 {
+    font-style: times;
+    font-size: 30px;
+}
+.row2 {
+    color: white;
+    background-color: black;
+}
+.lastq {
+    color: white;
+    background-color: red;
+}
